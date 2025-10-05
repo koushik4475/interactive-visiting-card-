@@ -78,7 +78,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/interactive-visiting-card.git
+git clone https://github.com/koushik4475/interactive-visiting-card.git
 
 # Navigate to project directory
 cd interactive-visiting-card
