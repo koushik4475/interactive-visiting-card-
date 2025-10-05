@@ -19,7 +19,7 @@
 ## 📸 Preview
 
 <!-- Add your screenshot here -->
-![Screenshot Placeholder]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/27df4060-d80f-4371-bd1d-34b50376f54a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/27df4060-d80f-4371-bd1d-34b50376f54a" />
 
 *Interactive visiting card with animated space shooter background*
 
